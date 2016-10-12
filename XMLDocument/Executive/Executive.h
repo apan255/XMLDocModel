@@ -3,11 +3,7 @@
 /////////////////////////////////////////////////////////////////////
 //  Executive.h - Makes call to the XMLDocument, Display           //
 //                                                           	   //
-//  ver 1.0                                                        //
-//  Language:      Visual C++ 2013                                 //
-//  Platform:      Dell Inspiron, Windows 8.1                      //
-//  Application:   File Catalogue, OOD Assignment 2, Spring2015    //
-//  Author:		   Ankur Pandey                                    //
+
 /////////////////////////////////////////////////////////////////////
 /*
 Module Operations:
