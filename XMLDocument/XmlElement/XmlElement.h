@@ -3,25 +3,10 @@
 ///////////////////////////////////////////////////////////////////
 // XmlElement.h - define XML Element types                       //
 // ver 1.7                                                       //
-// Application: Help for CSE687 Pr#2, Spring 2015                //
-// Platform:    Dell XPS 2720, Win 8.1 Pro, Visual Studio 2013   //
-// Author:      Jim Fawcett, CST 4-187, 443-3948                 //
-//              jfawcett@twcny.rr.com                            //
+
 ///////////////////////////////////////////////////////////////////
 /*
-* Package Operations:
-* -------------------
-* This package is intended to help students in CSE687 - Object Oriented Design
-* get started with Project #2 - XML Document Model.  It uses C++11 constructs,
-* most noteably std::shared_ptr.  The XML Document Model is essentially
-* a program-friendly wrapper around an Abstract Syntax Tree (AST) used to
-* contain the results of parsing XML markup.
-*
-* Abstract Syntax Trees are unordered trees with two types of nodes:
-*   Terminal nodes     - nodes with no children
-*   Non-Terminal nodes - nodes which may have a finite number of children
-* They are often used to contain the results of parsing some language.
-*
+
 * The elements defined in this package will be used in the AST defined in
 * the AbstractSyntaxTree package, included in this Visual Studio 2013
 * solution.
