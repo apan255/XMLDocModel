@@ -3,13 +3,7 @@
 /////////////////////////////////////////////////////////////////////
 //  Tokenizer.h - Reads words from a file                          //
 //  ver 1.9                                                        //
-//                                                                 //
-//  Language:      Visual C++ 2008, SP1                            //
-//  Platform:      Dell Precision T7400, Vista Ultimate SP1        //
-//  Application:   Prototype for CSE687 Pr1, Sp09                  //
-//  Author:        Jim Fawcett, CST 4-187, Syracuse University     //
-//                 (315) 443-3948, jfawcett@twcny.rr.com           //
-/////////////////////////////////////////////////////////////////////
+
 /*
 Module Operations:
 ==================
